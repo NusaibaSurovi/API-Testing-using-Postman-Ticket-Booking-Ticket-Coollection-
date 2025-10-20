@@ -15,3 +15,4 @@ PUT : Full update of a ticket information by id.
 PATCH : Partial update of a ticket information by id.
 
 DELETE : Delete of a ticket information by id.
+NOTE::: click on the "Postman Collection " directory to see the json files of the API testing
